@@ -1,12 +1,14 @@
-WP-BOOTSTRAP
+NCSU WP-BOOTSTRAP
 ===================
 
-Bootstrap (http://twitter.github.io/bootstrap) in Wordpress theme form. Using Eddie Machado's Bones for a starting point (https://github.com/eddiemachado/bones). 
+Bootstrap (http://twitter.github.io/bootstrap) in Wordpress theme form. Built on top of WP-Bootstrap: http://320press.com/wpbs/.
+
+Reviewed for accessibility and with additional theme options to meet the university's brand requirements.
 
 FEATURES
 ________
 
-We’ve built the WP-Bootstrap theme so that it could be used as-is or as a starting point for theme developers. It’s built on top of the brilliant Bones theme framework by Eddie Machado and based on v2.3.1 of Bootstrap.
+Built on top of the Bones theme framework by Eddie Machado and based on v2.3.1 of Bootstrap.
 
 Star this project on Github to keep up with its progress.
 
@@ -20,9 +22,10 @@ ______________
 
 We’ve packaged four different page templates into this theme.
 
-    - Homepage template (seen on the homepage of this site)
-    - Standard page with right sidebar (this page)
+    - Homepage template 
+    - Standard page with right sidebar
     - Page with left sidebar
+    - Post page with narrow left-hand column for sharing
     - Full width page
 
 Theme Options Panel
